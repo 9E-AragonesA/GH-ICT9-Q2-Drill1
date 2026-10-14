@@ -25,11 +25,11 @@ h1{
     margin: auto;
     justify-content:center;
     align-content: center;
-    border-radius: 5;
+    border-radius: 5px;
 }
 
 h3{
-    background-color: (92, 50, 0);
+    background-color: rgb(92, 50, 0);
 }
 
 li{
@@ -37,6 +37,6 @@ li{
 }
 
 footer{
-    color: (92, 50, 0);
+    color: rgb(92, 50, 0);
     text-align: center;
 }
